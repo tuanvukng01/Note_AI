@@ -167,6 +167,7 @@ You may not:
 
 Use of this software is granted solely for personal, non-commercial evaluation purposes.  
 For licensing inquiries or collaboration, please contact the author directly.
+
 ---
 
 ## ✨ Acknowledgments
