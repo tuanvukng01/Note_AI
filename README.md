@@ -129,14 +129,19 @@ note_ai/
 │   └── App.tsx
 ```
 
----
+[//]: # (---)
 
-## 🧠 Example Queries
+[//]: # ()
+[//]: # (## 🧠 Example Queries)
 
-Start by asking:
-- "What cities will the traveler visit before Milan?"
-- "Where is the traveler staying in Rome?"
-- "Main activities planned in Paris?"
+[//]: # ()
+[//]: # (Start by asking:)
+
+[//]: # (- "What cities will the traveler visit before Milan?")
+
+[//]: # (- "Where is the traveler staying in Rome?")
+
+[//]: # (- "Main activities planned in Paris?")
 
 ---
 
