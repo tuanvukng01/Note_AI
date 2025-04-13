@@ -6,7 +6,10 @@ NoteAI is a full-stack web application designed to help you effortlessly manage,
 
 ## 🔗 Live Demo
 
-[![NoteAI Preview](note_ai/public/web_snapshot.png)](https://note-ai-frontend.vercel.app)  
+🔍 Try the app here: [Live Demo](https://note-ai-frontend.vercel.app)
+
+![NoteAI Preview](note_ai/public/web_snapshot.png)
+
 [![Deployed on Vercel](https://img.shields.io/badge/Vercel-Live-black?logo=vercel)](https://note-ai-frontend.vercel.app)
 
 ---
