@@ -1,4 +1,4 @@
-# 🧠 NoteAI — Your Intelligent Note Companion
+# 🧠 NoteAI 
 
 NoteAI is a full-stack web application designed to help you effortlessly manage, organize, and query your notes using generative AI. Upload text or PDF notes, organize them into folders, and leverage powerful semantic search and AI-driven insights, all through an intuitive interface.
 
