@@ -1,0 +1,21 @@
+.vercel
+# Node stuff
+node_modules/
+package.json
+package-lock.json
+
+# Frontend or unrelated folders
+note_ai/
+data/
+
+
+# Python virtualenv
+.venv/
+
+*.env
+
+# Misc
+test.txt
+dir.sh
+
+.idea
