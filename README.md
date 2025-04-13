@@ -4,6 +4,12 @@ NoteAI is a full-stack web application designed to help you effortlessly manage,
 
 ---
 
+## 🔗 Live Demo
+
+- 🌐 [Live Site](https://note-ai-frontend.vercel.app)
+
+---
+
 ## 🚀 Key Features
 
 - 📁 **Note Management:** Upload and neatly organize your notes (supports `.txt` and `.pdf`).
@@ -28,6 +34,13 @@ NoteAI is a full-stack web application designed to help you effortlessly manage,
 - MongoDB (note metadata storage)
 - FAISS (semantic vector store)
 - Google Gemini 2 (Flash) / OpenAI GPT-3.5
+
+---
+
+## ☁️ Deployment
+
+- 🖥 **Frontend** deployed on [Vercel](https://vercel.com)
+- 🔧 **Backend** deployed via **Google Cloud Run (GCP)**
 
 ---
 
